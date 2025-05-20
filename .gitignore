@@ -1,0 +1,6 @@
+# Ignorar arquivos temporários, checkpoints e arquivos grandes
+*.zip
+*.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+.env

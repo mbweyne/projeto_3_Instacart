@@ -1,3 +1,5 @@
+![Banner do Projeto](https://raw.githubusercontent.com/mbweyne/projeto_3_Instacart/master/banner_instacart.png)
+
 🛒 Projeto 3 – Instacart: Análise de Dados de Compras Online
 📌 Descrição
 Este projeto tem como objetivo explorar e analisar os dados de um supermercado online (Instacart). Utilizamos a linguagem Python e bibliotecas como Pandas e NumPy para entender o comportamento de compras dos clientes, identificando padrões de consumo, horários de compra e os produtos mais populares.
@@ -54,4 +56,4 @@ Existe padrão de recompra?
 Márcia Bayardino Weyne
 📧 mbweyne@gmail.com
 🔗 LinkedIn
-💻 GitHub
+💻 GitHub       
